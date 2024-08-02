@@ -8,7 +8,7 @@ Hello there! 👋 I'm a passionate mechatronics engineering student with a diver
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [lucashashimoto001@gmail.com](mailto:lucashashimoto001@gmail.com)
-* 🧠  I'm learning Solidity and Hyperledger
+* 🧠  I'm learning Cairo and Rust
 * 🤝  I'm open to collaborating on Smart Contracts and DApps
 * ⚡  Fun fact: The word 'robot' originated from the Czech term 'robota,' meaning 'forced labor' or 'servitude,' as introduced by Karel Čapek in his play 'R.U.R.' in 1920.
 
