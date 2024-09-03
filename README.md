@@ -41,13 +41,12 @@ Hello there! 👋 I'm a passionate mechatronics engineering student with a diver
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Lucasch1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lucas-hashimoto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21075107/hash1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/HashimotoLucas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Lucasch1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lucas-hashimoto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21075107/hash1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.x.com/Hash1_C" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lucasch1&theme=dracula&hide_border=true&border_radius=4.4&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CFri%2CSat" alt="GitHub Streak" /></a>
 
-<a href="https://github.com/Lucasch1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasch1&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Lucasch1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasch1&langs_count=10&theme=dracula&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
